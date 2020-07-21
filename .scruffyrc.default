@@ -1,0 +1,7 @@
+# Scruffy Configuration
+# Check README for documentation
+
+export SCRUFFY_DAYS_TO_LEAVE_ON_DESKTOP=3
+export SCRUFFY_DAYS_TO_CHECK_FOR_REQUIRED_ARCHIVE=90
+export SCRUFFY_SOUND_ON_COMPLETE=Scruffy
+export SCRUFFY_UNMOUNT_DISK_IMAGES=False
